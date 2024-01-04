@@ -1,6 +1,6 @@
 # backend-house-rental
 
-# Alugal de Casa
+# Aluguel de Casa
 
 Esse projeto é o backend do sistema de alguem de casas, onde podemos cadastrar, alugar e excluir.
 
